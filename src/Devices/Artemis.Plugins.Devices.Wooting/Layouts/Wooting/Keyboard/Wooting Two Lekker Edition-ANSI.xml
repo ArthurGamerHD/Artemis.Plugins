@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <Device xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Wooting Two - Physical US</Name>
-  <Description>Physical US (ANSI) layout of the Wooting Two</Description>
-  <Author>SpoinkyNL</Author>
+  <Name>Wooting Two LE - Physical US</Name>
+  <Description>Physical US (ANSI) layout of the Wooting Two LE</Description>
+  <Author>BigBrainAFK</Author>
   <Type>Keyboard</Type>
   <Vendor>Wooting</Vendor>
-  <Model>Wooting Two</Model>
+  <Model>Wooting Two Lekker Edition</Model>
   <Width>450</Width>
   <Height>150</Height>
   <Leds>
@@ -815,6 +815,6 @@
     </Led>
   </Leds>
   <CustomData>
-    <DeviceImage>Wooting Two.png</DeviceImage>
+    <DeviceImage>Wooting Two LE.png</DeviceImage>
   </CustomData>
 </Device>
